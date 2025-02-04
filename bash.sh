@@ -24,9 +24,9 @@ displaySocialLinks() {
     echo -e "${CYAN}═══════════════════════════════════════════${NC}"
     echo -e "${CYAN}Follow Us On:${NC}" 
     echo -e "═══════════════════════════════════════════"
-    echo -e " • ${GREEN}GitHub:${NC} ${CYAN}https://github.com/enzosrs${NC}"
-    echo -e " • ${MAGENTA}Telegram:${NC} ${CYAN}https://t.me/enzosrs${NC}"
-    echo -e " • ${PINK}Channel:${NC} ${CYAN}https://t.me/+AN7bEQ4v8kkwOTI1${NC}"
+    echo -e " • ${GREEN}GitHub:${NC} ${CYAN}https://github.com/ITS-HYDRa-01${NC}"
+    echo -e " • ${MAGENTA}Telegram:${NC} ${CYAN}https://t.me/allmoneygamehack${NC}"
+    echo -e " • ${PINK}Channel:${NC} ${CYAN}https://t.me/allmoneygamehack${NC}"
     echo -e "${CYAN}═══════════════════════════════════════════${NC}"
 }
 
